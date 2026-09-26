@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.10.19",
+          "buildVersion": "19",
+          "date": "2026-09-26T23:10:40Z",
+          "localizedDescription": "Kniv Karambit\n• Vandaag: lopende timers, herinneringen, open boodschappen en wie wie nog geld schuldig is, bovenaan in één blik\n• Boodschappen staan in de volgorde van een rondje door de supermarkt\n• Op zondag een rustige terugblik op je week",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.10.19-b19/Kniv.ipa",
+          "size": 3015502,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.9.18",
           "buildVersion": "18",
           "date": "2026-09-26T23:05:09Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.4.0-b8/Kniv.ipa",
           "size": 865563,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.3.0",
-          "buildVersion": "6",
-          "date": "2026-09-26T22:01:38Z",
-          "localizedDescription": "Kniv Nakiri\n• Nieuw mesje: Splitten\n• Rekening delen met fooi, en een betaalverzoek met QR-code voor elke bankapp\n• Potjes voor vakanties, ook in vreemde valuta, afgerekend met zo min mogelijk betalingen\n• Bon scannen en per persoon aantikken wie wat had\n• Omzetten door gewoon te typen: \"3 cups bloem\", \"45 usd\", \"30% korting op 89\"\n• Fix: tikken op een notitie opent hem nu echt",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.3.0-b6/Kniv.ipa",
-          "size": 710776,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.9.18",
-      "versionDate": "2026-09-26T23:05:09Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.9.18-b18/Kniv.ipa",
-      "size": 2969368
+      "version": "0.10.19",
+      "versionDate": "2026-09-26T23:10:40Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.10.19-b19/Kniv.ipa",
+      "size": 3015502
     }
   ],
   "news": []
