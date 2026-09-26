@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.5.0",
+          "buildVersion": "9",
+          "date": "2026-09-26T22:11:30Z",
+          "localizedDescription": "Kniv Bowie\n• Widgets: snelknoppen op je beginscherm (klein en middel) en vergrendelscherm\n• Control Center-knoppen: Kniv inspreken, foto of typen\n• Live Activity: je timer met mini-lemmet op het vergrendelscherm en in het Dynamic Island",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.5.0-b9/Kniv.ipa",
+          "size": 939389,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.4.0",
           "buildVersion": "8",
           "date": "2026-09-26T22:07:05Z",
@@ -72,10 +81,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.4.0",
-      "versionDate": "2026-09-26T22:07:05Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.4.0-b8/Kniv.ipa",
-      "size": 865563
+      "version": "0.5.0",
+      "versionDate": "2026-09-26T22:11:30Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.5.0-b9/Kniv.ipa",
+      "size": 939389
     }
   ],
   "news": []
