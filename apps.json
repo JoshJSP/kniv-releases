@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.4.0",
+          "buildVersion": "8",
+          "date": "2026-09-26T22:07:05Z",
+          "localizedDescription": "Kniv Kukri\n• Nieuw mesje: Kiezen\n• Rad van fortuin: veeg om te draaien, hoe harder hoe langer\n• Glazen 3D-dobbelstenen: schud je telefoon om te gooien\n• Munt opgooien, teams willekeurig verdelen\n• Veegstemmen: geef de telefoon door en veeg per optie ja of nee\n• Een lijstje in Vastleggen gaat met één tik naar het rad, teams of een stemming\n• Fooi berekenen met sterren voor eten, drinken en service",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.4.0-b8/Kniv.ipa",
+          "size": 865563,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.0",
           "buildVersion": "6",
           "date": "2026-09-26T22:01:38Z",
@@ -63,10 +72,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.3.0",
-      "versionDate": "2026-09-26T22:01:38Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.3.0-b6/Kniv.ipa",
-      "size": 710776
+      "version": "0.4.0",
+      "versionDate": "2026-09-26T22:07:05Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.4.0-b8/Kniv.ipa",
+      "size": 865563
     }
   ],
   "news": []
