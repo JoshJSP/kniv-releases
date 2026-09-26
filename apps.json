@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.9.18",
+          "buildVersion": "18",
+          "date": "2026-09-26T23:05:09Z",
+          "localizedDescription": "Kniv Damascus\n• Inloggen met Google\n• Je notities staan nu ook in de cloud, zodat je laptop ze ziet (kies per notitie: alleen telefoon, ook laptop of gedeeld)\n• Lijstjes delen: nodig vrienden uit met een link, zie live wie wat toevoegde\n• Kniv werkt offline gewoon door en synchroniseert zodra er internet is\n• Account verwijderen kan in Instellingen",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.9.18-b18/Kniv.ipa",
+          "size": 2969368,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.8.16",
           "buildVersion": "16",
           "date": "2026-09-26T22:51:26Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.3.0-b6/Kniv.ipa",
           "size": 710776,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.2.0",
-          "buildVersion": "4",
-          "date": "2026-09-26T21:54:08Z",
-          "localizedDescription": "Kniv Santoku\n• Nieuw mesje: Timers\n• Pomodoro met een lemmet dat langzaam inklapt, en een weekoverzicht van je focus\n• Losse timers met naam (pasta, thee, de was) en countdowns naar een datum\n• Siri: \"Start focus in Kniv\"\n• Staat er \"over 20 min oven uit\" in een notitie? Eén tik en de timer loopt",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.2.0-b4/Kniv.ipa",
-          "size": 534230,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.8.16",
-      "versionDate": "2026-09-26T22:51:26Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.8.16-b16/Kniv.ipa",
-      "size": 1143090
+      "version": "0.9.18",
+      "versionDate": "2026-09-26T23:05:09Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.9.18-b18/Kniv.ipa",
+      "size": 2969368
     }
   ],
   "news": []
