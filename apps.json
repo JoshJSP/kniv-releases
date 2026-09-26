@@ -18,6 +18,15 @@
       "versions": [
         {
           "version": "0.7.0",
+          "buildVersion": "13",
+          "date": "2026-09-26T22:30:11Z",
+          "localizedDescription": "Kniv Stanley\n• Nieuw mesje: Scanner. QR-codes, documenten naar PDF, en tekst van papier kopiëren\n• Nieuw mesje: Meten. Waterpas, AR-liniaal en een decibelmeter\n• Het startscherm is nu een 3x2-raster met zes mesjes",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.7.0-b13/Kniv.ipa",
+          "size": 1101447,
+          "minOSVersion": "18.0"
+        },
+        {
+          "version": "0.7.0",
           "buildVersion": "12",
           "date": "2026-09-26T22:21:10Z",
           "localizedDescription": "Kniv Stanley\n• Nieuw mesje: Scanner. QR-codes, documenten naar PDF, en tekst van papier kopiëren\n• Nieuw mesje: Meten. Waterpas, AR-liniaal en een decibelmeter\n• Het startscherm is nu een 3x2-raster met zes mesjes",
@@ -100,9 +109,9 @@
         }
       },
       "version": "0.7.0",
-      "versionDate": "2026-09-26T22:21:10Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.7.0-b12/Kniv.ipa",
-      "size": 1084010
+      "versionDate": "2026-09-26T22:30:11Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.7.0-b13/Kniv.ipa",
+      "size": 1101447
     }
   ],
   "news": []
