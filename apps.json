@@ -15,7 +15,17 @@
       "iconURL": "https://raw.githubusercontent.com/JoshJSP/kniv-releases/main/icon.png",
       "tintColor": "#D52B1E",
       "screenshots": [],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "2",
+          "date": "2026-09-26T21:44:14Z",
+          "localizedDescription": "Kniv Opinel\n• Vastleggen: typen, inspreken, foto's en lijstjes\n• Kniv sorteert alles zelf in bakjes en vraagt het als hij twijfelt\n• Tekst uit foto's wordt doorzoekbaar\n• Herinneringen op een vrij moment in je agenda\n• Actieknop en Siri: \"Inspreken in Kniv\"",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.1.0-b2/Kniv.ipa",
+          "size": 410574,
+          "minOSVersion": "18.0"
+        }
+      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -25,7 +35,11 @@
           "NSFaceIDUsageDescription": "Kniv opent vergrendelde bakjes met Face ID.",
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
-      }
+      },
+      "version": "0.1.0",
+      "versionDate": "2026-09-26T21:44:14Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.1.0-b2/Kniv.ipa",
+      "size": 410574
     }
   ],
   "news": []
