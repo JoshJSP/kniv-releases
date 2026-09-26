@@ -1,0 +1,32 @@
+{
+  "name": "Kniv",
+  "identifier": "com.joshjsp.kniv.bron",
+  "subtitle": "Een strak zakmes vol kleine tools.",
+  "iconURL": "https://raw.githubusercontent.com/JoshJSP/kniv-releases/main/icon.png",
+  "website": "https://github.com/JoshJSP/kniv-releases",
+  "tintColor": "#D52B1E",
+  "apps": [
+    {
+      "name": "Kniv",
+      "bundleIdentifier": "com.joshjsp.kniv",
+      "developerName": "Josh",
+      "subtitle": "Vastleggen, timers, splitten en kiezen.",
+      "localizedDescription": "Kniv is een strak zakmes vol kleine tools. Leg alles vast met typen, inspreken of een foto, en Kniv sorteert het zelf in bakjes.",
+      "iconURL": "https://raw.githubusercontent.com/JoshJSP/kniv-releases/main/icon.png",
+      "tintColor": "#D52B1E",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Kniv luistert alleen terwijl je inspreekt.",
+          "NSSpeechRecognitionUsageDescription": "Kniv schrijft je ingesproken notities uit, op je iPhone zelf.",
+          "NSCameraUsageDescription": "Kniv maakt foto's van papiertjes, whiteboards en bonnetjes.",
+          "NSFaceIDUsageDescription": "Kniv opent vergrendelde bakjes met Face ID.",
+          "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
+        }
+      }
+    }
+  ],
+  "news": []
+}
