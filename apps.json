@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.34.52",
+          "buildVersion": "52",
+          "date": "2026-09-27T10:48:57Z",
+          "localizedDescription": "Kniv Fallkniven\n• Delen werkt nu echt (de database weigerde het maken van een gedeelde groep)\n• Prullenbak en 'alleen deze telefoon' wissen niets meer per ongeluk\n• Offline wijzigingen komen altijd aan, en een oude versie overschrijft nooit een nieuwere\n• Geen crash meer als iemand een notitie verwijdert die jij open hebt\n• Tientallen kleinere verbeteringen na een grondige code-review",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.34.52-b52/Kniv.ipa",
+          "size": 3810327,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.33.51",
           "buildVersion": "51",
           "date": "2026-09-27T10:36:00Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.28.43-b43/Kniv.ipa",
           "size": 3595641,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.28.42",
-          "buildVersion": "42",
-          "date": "2026-09-27T09:47:44Z",
-          "localizedDescription": "Kniv Buck\n• Kniv ziet wat je bedoelt: 'tandarts maandag 14:30' → zet in agenda, 'oma bellen' → bel oma, een adres → route, een nummer → bellen\n• Kies de taal van Kniv in Instellingen: Nederlands, English of zoals je iPhone\n• Losse timers (pasta, thee) staan nu ook op je vergrendelscherm en in het Dynamic Island\n• Instellingen opgeruimd: account met profielfoto bovenaan\n• Wist je dat…: elke dag één tip over wat Kniv kan",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.28.42-b42/Kniv.ipa",
-          "size": 3594711,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.33.51",
-      "versionDate": "2026-09-27T10:36:00Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.33.51-b51/Kniv.ipa",
-      "size": 3774902
+      "version": "0.34.52",
+      "versionDate": "2026-09-27T10:48:57Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.34.52-b52/Kniv.ipa",
+      "size": 3810327
     }
   ],
   "news": []
