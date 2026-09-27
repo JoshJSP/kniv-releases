@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.26.40",
+          "buildVersion": "40",
+          "date": "2026-09-27T09:39:58Z",
+          "localizedDescription": "Kniv Stiletto\n• Wist je dat…: elke dag één tip over wat Kniv kan\n• Instellingen → Wat Kniv allemaal kan\n• Vertaal wat je scant: menukaarten en borden in het buitenland, offline\n• Slaapadvies (bij Timers): hoe laat naar bed om fris wakker te worden, met een seintje\n• Win+Shift+K op je laptop rekent nu ook sommen uit\n• Bij het openen klapt het lemmet uit het handvat",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.26.40-b40/Kniv.ipa",
+          "size": 3572753,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.26.39",
           "buildVersion": "39",
           "date": "2026-09-27T09:36:52Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.21.31-b31/Kniv.ipa",
           "size": 3453401,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.21.30",
-          "buildVersion": "30",
-          "date": "2026-09-27T08:53:50Z",
-          "localizedDescription": "Kniv Kukri Twee\n• Eén zin per dag: 's avonds vraagt Kniv hoe je dag was, in je eigen Dagboek-bakje\n• Op deze dag: bovenaan zie je wat je een maand en een jaar geleden schreef\n• Beurten (bij Splitten): roosters voor het rondje, de afwas, de boodschappen\n• Lang indrukken op een tegel: meteen inspreken, een foto, focus of het rad\n• Iets uitgeleend? 'Sam heeft mijn oplader' en Kniv vraagt over twee weken of je hem terug hebt\n• Nieuw icoon voor donkere modus en een getint icoon",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.21.30-b30/Kniv.ipa",
-          "size": 3453397,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.26.39",
-      "versionDate": "2026-09-27T09:36:52Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.26.39-b39/Kniv.ipa",
-      "size": 3569516
+      "version": "0.26.40",
+      "versionDate": "2026-09-27T09:39:58Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.26.40-b40/Kniv.ipa",
+      "size": 3572753
     }
   ],
   "news": []
