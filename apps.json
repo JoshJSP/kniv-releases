@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.21.30",
+          "buildVersion": "30",
+          "date": "2026-09-27T08:53:50Z",
+          "localizedDescription": "Kniv Kukri Twee\n• Eén zin per dag: 's avonds vraagt Kniv hoe je dag was, in je eigen Dagboek-bakje\n• Op deze dag: bovenaan zie je wat je een maand en een jaar geleden schreef\n• Beurten (bij Splitten): roosters voor het rondje, de afwas, de boodschappen\n• Lang indrukken op een tegel: meteen inspreken, een foto, focus of het rad\n• Iets uitgeleend? 'Sam heeft mijn oplader' en Kniv vraagt over twee weken of je hem terug hebt\n• Nieuw icoon voor donkere modus en een getint icoon",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.21.30-b30/Kniv.ipa",
+          "size": 3453397,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.20.29",
           "buildVersion": "29",
           "date": "2026-09-27T08:48:49Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.12.21-b21/Kniv.ipa",
           "size": 3154478,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.11.20",
-          "buildVersion": "20",
-          "date": "2026-09-27T07:50:29Z",
-          "localizedDescription": "Kniv Bolo\n• Samen kiezen: start in Kiezen een code en nodig vrienden uit\n• Het rad draait op ieders telefoon tegelijk, met dezelfde uitkomst\n• Stemmen: iedereen veegt op zijn eigen telefoon, de uitslag komt als iedereen klaar is",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.11.20-b20/Kniv.ipa",
-          "size": 3096528,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.20.29",
-      "versionDate": "2026-09-27T08:48:49Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.20.29-b29/Kniv.ipa",
-      "size": 3417209
+      "version": "0.21.30",
+      "versionDate": "2026-09-27T08:53:50Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.21.30-b30/Kniv.ipa",
+      "size": 3453397
     }
   ],
   "news": []
