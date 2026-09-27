@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.25.37",
+          "buildVersion": "37",
+          "date": "2026-09-27T09:28:54Z",
+          "localizedDescription": "Kniv Santoku Twee\n• Vertaal wat je scant: menukaarten en borden in het buitenland, offline\n• Slaapadvies (bij Timers): hoe laat naar bed om fris wakker te worden, met een seintje\n• Win+Shift+K op je laptop rekent nu ook sommen uit\n• Bij het openen klapt het lemmet uit het handvat\n• Vraag Siri: 'Wat staat er vandaag in Kniv?' en hoor je dag in één adem\n• Terugvinden met parkeertijd: leg je auto vast en de parkeertimer loopt meteen\n• Zuiniger: de Vandaag-kaart rekent alleen nog als er iets verandert",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.25.37-b37/Kniv.ipa",
+          "size": 3566531,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.25.36",
           "buildVersion": "36",
           "date": "2026-09-27T09:24:14Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.19.28-b28/Kniv.ipa",
           "size": 3383289,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.18.27",
-          "buildVersion": "27",
-          "date": "2026-09-27T08:40:22Z",
-          "localizedDescription": "Kniv Trapper\n• Regen op komst? Vandaag zegt het (paraplu mee), en ook als je de deur uit loopt\n• Tijdcapsule: verzegel een notitie tot een datum in de toekomst\n• Rondjes (bij Splitten): wie geeft het volgende rondje?\n• Studieplan: geef een countdown een hoeveelheid werk en zie hoeveel per dag\n• Verjaardag in een notitie? Eén tik en je krijgt er elk jaar een seintje van",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.18.27-b27/Kniv.ipa",
-          "size": 3368023,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.25.36",
-      "versionDate": "2026-09-27T09:24:14Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.25.36-b36/Kniv.ipa",
-      "size": 3553647
+      "version": "0.25.37",
+      "versionDate": "2026-09-27T09:28:54Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.25.37-b37/Kniv.ipa",
+      "size": 3566531
     }
   ],
   "news": []
