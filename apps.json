@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.18.27",
+          "buildVersion": "27",
+          "date": "2026-09-27T08:40:22Z",
+          "localizedDescription": "Kniv Trapper\n• Regen op komst? Vandaag zegt het (paraplu mee), en ook als je de deur uit loopt\n• Tijdcapsule: verzegel een notitie tot een datum in de toekomst\n• Rondjes (bij Splitten): wie geeft het volgende rondje?\n• Studieplan: geef een countdown een hoeveelheid werk en zie hoeveel per dag\n• Verjaardag in een notitie? Eén tik en je krijgt er elk jaar een seintje van",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.18.27-b27/Kniv.ipa",
+          "size": 3368023,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.17.26",
           "buildVersion": "26",
           "date": "2026-09-27T08:35:25Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.9.18-b18/Kniv.ipa",
           "size": 2969368,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.8.16",
-          "buildVersion": "16",
-          "date": "2026-09-26T22:51:26Z",
-          "localizedDescription": "Kniv Kerambit\n• Kniv ziet zelf wanneer er een update is: één tik en SideStore installeert hem\n• Engelse vertaling: Kniv volgt de taal van je telefoon\n• Schudden om een fout te melden (tik 5× op de versie in Instellingen)",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.8.16-b16/Kniv.ipa",
-          "size": 1143090,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.17.26",
-      "versionDate": "2026-09-27T08:35:25Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.17.26-b26/Kniv.ipa",
-      "size": 3318333
+      "version": "0.18.27",
+      "versionDate": "2026-09-27T08:40:22Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.18.27-b27/Kniv.ipa",
+      "size": 3368023
     }
   ],
   "news": []
