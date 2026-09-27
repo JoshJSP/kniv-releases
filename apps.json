@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.31.48",
+          "buildVersion": "48",
+          "date": "2026-09-27T10:22:45Z",
+          "localizedDescription": "Kniv Spyderco\n• Ingesproken notities bewaren de opname: luister terug als de tekst niet klopt\n• Splitten → Bon: zie per maand wat je aan gescande bonnen uitgaf\n• Exporteer alles (Instellingen): al je gegevens in één leesbaar bestand\n• Knoppen in meldingen: timer klaar → +5 min, herinnering → over een uur of morgen\n• Prikken (bij Kiezen): wanneer kan iedereen? Kies data, deel de link, zie de beste dag\n• Gehoorportie (bij Meten → Geluid): Kniv waarschuwt voordat harde muziek je oren beschadigt",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.31.48-b48/Kniv.ipa",
+          "size": 3729834,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.30.47",
           "buildVersion": "47",
           "date": "2026-09-27T10:13:08Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.26.39-b39/Kniv.ipa",
           "size": 3569516,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.26.38",
-          "buildVersion": "38",
-          "date": "2026-09-27T09:33:21Z",
-          "localizedDescription": "Kniv Stiletto\n• Wist je dat…: elke dag één tip over wat Kniv kan\n• Instellingen → Wat Kniv allemaal kan\n• Vertaal wat je scant: menukaarten en borden in het buitenland, offline\n• Slaapadvies (bij Timers): hoe laat naar bed om fris wakker te worden, met een seintje\n• Win+Shift+K op je laptop rekent nu ook sommen uit\n• Bij het openen klapt het lemmet uit het handvat",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.26.38-b38/Kniv.ipa",
-          "size": 3568123,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.30.47",
-      "versionDate": "2026-09-27T10:13:08Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.30.47-b47/Kniv.ipa",
-      "size": 3708618
+      "version": "0.31.48",
+      "versionDate": "2026-09-27T10:22:45Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.31.48-b48/Kniv.ipa",
+      "size": 3729834
     }
   ],
   "news": []
