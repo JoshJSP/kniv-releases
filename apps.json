@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.21.31",
+          "buildVersion": "31",
+          "date": "2026-09-27T08:57:59Z",
+          "localizedDescription": "Kniv Kukri Twee\n• Fooi rondt nu af op hele of halve euro's, zoals je fooi meestal afrondt\n• Eén zin per dag: 's avonds vraagt Kniv hoe je dag was, in je eigen Dagboek-bakje\n• Op deze dag: bovenaan zie je wat je een maand en een jaar geleden schreef\n• Beurten (bij Splitten): roosters voor het rondje, de afwas, de boodschappen\n• Lang indrukken op een tegel: meteen inspreken, een foto, focus of het rad",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.21.31-b31/Kniv.ipa",
+          "size": 3453401,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.21.30",
           "buildVersion": "30",
           "date": "2026-09-27T08:53:50Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.13.22-b22/Kniv.ipa",
           "size": 3182112,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.12.21",
-          "buildVersion": "21",
-          "date": "2026-09-27T08:08:28Z",
-          "localizedDescription": "Kniv Hori Hori\n• Timers en countdowns synchroniseren tussen je apparaten (loopt hij op het ene apparaat, dan krijg je ook hier een melding)\n• Potjes synchroniseren, en je kunt een potje delen: vrienden voegen zelf hun uitgaven toe\n• Wijzigingen tijdens het synchroniseren gaan niet meer verloren\n• Uitloggen en opnieuw inloggen werkt nu netjes",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.12.21-b21/Kniv.ipa",
-          "size": 3154478,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.21.30",
-      "versionDate": "2026-09-27T08:53:50Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.21.30-b30/Kniv.ipa",
-      "size": 3453397
+      "version": "0.21.31",
+      "versionDate": "2026-09-27T08:57:59Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.21.31-b31/Kniv.ipa",
+      "size": 3453401
     }
   ],
   "news": []
