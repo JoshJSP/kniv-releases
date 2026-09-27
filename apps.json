@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.14.23",
+          "buildVersion": "23",
+          "date": "2026-09-27T08:19:40Z",
+          "localizedDescription": "Kniv Higonokami\n• Verstaat je iPhone je niet goed (of praat je Nederlands en Engels door elkaar)? Dan schrijft Whisper het uit, zonder dat je iets merkt\n• Gedeelde potjes zie je nu ook op de deelpagina: totaal, afrekenen en alle uitgaven",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.14.23-b23/Kniv.ipa",
+          "size": 3186786,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.13.22",
           "buildVersion": "22",
           "date": "2026-09-27T08:12:47Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.7.0-b13/Kniv.ipa",
           "size": 1101447,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.7.0",
-          "buildVersion": "12",
-          "date": "2026-09-26T22:21:10Z",
-          "localizedDescription": "Kniv Stanley\n• Nieuw mesje: Scanner. QR-codes, documenten naar PDF, en tekst van papier kopiëren\n• Nieuw mesje: Meten. Waterpas, AR-liniaal en een decibelmeter\n• Het startscherm is nu een 3x2-raster met zes mesjes",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.7.0-b12/Kniv.ipa",
-          "size": 1084010,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.13.22",
-      "versionDate": "2026-09-27T08:12:47Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.13.22-b22/Kniv.ipa",
-      "size": 3182112
+      "version": "0.14.23",
+      "versionDate": "2026-09-27T08:19:40Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.14.23-b23/Kniv.ipa",
+      "size": 3186786
     }
   ],
   "news": []
