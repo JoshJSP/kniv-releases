@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.24.35",
+          "buildVersion": "35",
+          "date": "2026-09-27T09:15:47Z",
+          "localizedDescription": "Kniv Laguiole\n• Bij het openen klapt het lemmet uit het handvat\n• Vraag Siri: 'Wat staat er vandaag in Kniv?' en hoor je dag in één adem\n• Terugvinden met parkeertijd: leg je auto vast en de parkeertimer loopt meteen\n• Zuiniger: de Vandaag-kaart rekent alleen nog als er iets verandert\n• Vingerkiezer (bij Kiezen): iedereen een vinger op het scherm, Kniv kiest wie begint\n• Streeplijst (bij Splitten): turf drankjes per persoon en deel de afrekening",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.24.35-b35/Kniv.ipa",
+          "size": 3533790,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.23.34",
           "buildVersion": "34",
           "date": "2026-09-27T09:12:09Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.17.26-b26/Kniv.ipa",
           "size": 3318333,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.16.25",
-          "buildVersion": "25",
-          "date": "2026-09-27T08:29:53Z",
-          "localizedDescription": "Kniv Balisong\n• Omdraaien om te focussen: telefoon met het scherm op tafel = focus, oppakken = pauze\n• Even ademen: box breathing met een lemmet dat meeademt\n• Typ een som in de invoerbalk (12*3+4) en zie meteen het antwoord\n• 's Avonds in rustmodus: schrijf een briefje aan morgen-jij, 's ochtends staat het bovenaan\n• Loop je de deur uit? Dan laat Kniv zien wat je mee moest nemen",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.16.25-b25/Kniv.ipa",
-          "size": 3254674,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.23.34",
-      "versionDate": "2026-09-27T09:12:09Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.23.34-b34/Kniv.ipa",
-      "size": 3521489
+      "version": "0.24.35",
+      "versionDate": "2026-09-27T09:15:47Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.24.35-b35/Kniv.ipa",
+      "size": 3533790
     }
   ],
   "news": []
