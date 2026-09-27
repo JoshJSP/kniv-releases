@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.25.36",
+          "buildVersion": "36",
+          "date": "2026-09-27T09:24:14Z",
+          "localizedDescription": "Kniv Santoku Twee\n• Vertaal wat je scant: menukaarten en borden in het buitenland, offline\n• Slaapadvies (bij Timers): hoe laat naar bed om fris wakker te worden, met een seintje\n• Win+Shift+K op je laptop rekent nu ook sommen uit\n• Bij het openen klapt het lemmet uit het handvat\n• Vraag Siri: 'Wat staat er vandaag in Kniv?' en hoor je dag in één adem\n• Terugvinden met parkeertijd: leg je auto vast en de parkeertimer loopt meteen\n• Zuiniger: de Vandaag-kaart rekent alleen nog als er iets verandert",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.25.36-b36/Kniv.ipa",
+          "size": 3553647,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.24.35",
           "buildVersion": "35",
           "date": "2026-09-27T09:15:47Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.18.27-b27/Kniv.ipa",
           "size": 3368023,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.17.26",
-          "buildVersion": "26",
-          "date": "2026-09-27T08:35:25Z",
-          "localizedDescription": "Kniv Wharncliffe\n• Garantiekluis: bewaar een bon en Kniv waarschuwt een maand voordat je twee jaar garantie afloopt\n• Terugvinden (bij Meten): leg de plek van je fiets, auto of tent vast en een kompaspijl brengt je terug\n• Maak QR (bij Scanner): deel je wifi met een code die vrienden met hun camera scannen\n• Omdraaien om te focussen: telefoon met het scherm op tafel = focus, oppakken = pauze\n• Even ademen: box breathing met een lemmet dat meeademt\n• Typ een som in de invoerbalk (12*3+4) en zie meteen het antwoord\n• 's Avonds in rustmodus: schrijf een briefje aan morgen-jij, 's ochtends staat het bovenaan\n• Loop je de deur uit? Dan laat Kniv zien wat je mee moest nemen",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.17.26-b26/Kniv.ipa",
-          "size": 3318333,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.24.35",
-      "versionDate": "2026-09-27T09:15:47Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.24.35-b35/Kniv.ipa",
-      "size": 3533790
+      "version": "0.25.36",
+      "versionDate": "2026-09-27T09:24:14Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.25.36-b36/Kniv.ipa",
+      "size": 3553647
     }
   ],
   "news": []
