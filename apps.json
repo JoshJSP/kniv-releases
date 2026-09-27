@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.19.28",
+          "buildVersion": "28",
+          "date": "2026-09-27T08:44:56Z",
+          "localizedDescription": "Kniv Sgian Dubh\n• Kniv denkt mee: maak van een notitie een lijstje (een gerecht wordt boodschappen, een reis een paklijst), op je iPhone zelf\n• Lange tekst van een whiteboard-foto? Kniv vat hem samen in een paar punten\n• Een persoonlijke begroeting bovenaan\n• Regen op komst? Vandaag zegt het (paraplu mee), en ook als je de deur uit loopt\n• Tijdcapsule: verzegel een notitie tot een datum in de toekomst\n• Rondjes (bij Splitten): wie geeft het volgende rondje?\n• Studieplan: geef een countdown een hoeveelheid werk en zie hoeveel per dag",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.19.28-b28/Kniv.ipa",
+          "size": 3383289,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.18.27",
           "buildVersion": "27",
           "date": "2026-09-27T08:40:22Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.10.19-b19/Kniv.ipa",
           "size": 3015502,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.9.18",
-          "buildVersion": "18",
-          "date": "2026-09-26T23:05:09Z",
-          "localizedDescription": "Kniv Damascus\n• Inloggen met Google\n• Je notities staan nu ook in de cloud, zodat je laptop ze ziet (kies per notitie: alleen telefoon, ook laptop of gedeeld)\n• Lijstjes delen: nodig vrienden uit met een link, zie live wie wat toevoegde\n• Kniv werkt offline gewoon door en synchroniseert zodra er internet is\n• Account verwijderen kan in Instellingen",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.9.18-b18/Kniv.ipa",
-          "size": 2969368,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.18.27",
-      "versionDate": "2026-09-27T08:40:22Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.18.27-b27/Kniv.ipa",
-      "size": 3368023
+      "version": "0.19.28",
+      "versionDate": "2026-09-27T08:44:56Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.19.28-b28/Kniv.ipa",
+      "size": 3383289
     }
   ],
   "news": []
