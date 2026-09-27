@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.30.47",
+          "buildVersion": "47",
+          "date": "2026-09-27T10:13:08Z",
+          "localizedDescription": "Kniv Bushcraft\n• Exporteer alles (Instellingen): al je gegevens in één leesbaar bestand\n• Knoppen in meldingen: timer klaar → +5 min, herinnering → over een uur of morgen\n• Prikken (bij Kiezen): wanneer kan iedereen? Kies data, deel de link, zie de beste dag\n• Gehoorportie (bij Meten → Geluid): Kniv waarschuwt voordat harde muziek je oren beschadigt\n• Kniv ziet wat je bedoelt: agenda, bellen, route en links vanuit een notitie\n• Kies de taal van Kniv in Instellingen: Nederlands, English of zoals je iPhone",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.30.47-b47/Kniv.ipa",
+          "size": 3708618,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.29.46",
           "buildVersion": "46",
           "date": "2026-09-27T10:07:49Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.26.38-b38/Kniv.ipa",
           "size": 3568123,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.25.37",
-          "buildVersion": "37",
-          "date": "2026-09-27T09:28:54Z",
-          "localizedDescription": "Kniv Santoku Twee\n• Vertaal wat je scant: menukaarten en borden in het buitenland, offline\n• Slaapadvies (bij Timers): hoe laat naar bed om fris wakker te worden, met een seintje\n• Win+Shift+K op je laptop rekent nu ook sommen uit\n• Bij het openen klapt het lemmet uit het handvat\n• Vraag Siri: 'Wat staat er vandaag in Kniv?' en hoor je dag in één adem\n• Terugvinden met parkeertijd: leg je auto vast en de parkeertimer loopt meteen\n• Zuiniger: de Vandaag-kaart rekent alleen nog als er iets verandert",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.25.37-b37/Kniv.ipa",
-          "size": 3566531,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.29.46",
-      "versionDate": "2026-09-27T10:07:49Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.29.46-b46/Kniv.ipa",
-      "size": 3692231
+      "version": "0.30.47",
+      "versionDate": "2026-09-27T10:13:08Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.30.47-b47/Kniv.ipa",
+      "size": 3708618
     }
   ],
   "news": []
