@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.17.26",
+          "buildVersion": "26",
+          "date": "2026-09-27T08:35:25Z",
+          "localizedDescription": "Kniv Wharncliffe\n• Garantiekluis: bewaar een bon en Kniv waarschuwt een maand voordat je twee jaar garantie afloopt\n• Terugvinden (bij Meten): leg de plek van je fiets, auto of tent vast en een kompaspijl brengt je terug\n• Maak QR (bij Scanner): deel je wifi met een code die vrienden met hun camera scannen\n• Omdraaien om te focussen: telefoon met het scherm op tafel = focus, oppakken = pauze\n• Even ademen: box breathing met een lemmet dat meeademt\n• Typ een som in de invoerbalk (12*3+4) en zie meteen het antwoord\n• 's Avonds in rustmodus: schrijf een briefje aan morgen-jij, 's ochtends staat het bovenaan\n• Loop je de deur uit? Dan laat Kniv zien wat je mee moest nemen",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.17.26-b26/Kniv.ipa",
+          "size": 3318333,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.16.25",
           "buildVersion": "25",
           "date": "2026-09-27T08:29:53Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.8.16-b16/Kniv.ipa",
           "size": 1143090,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.7.0",
-          "buildVersion": "15",
-          "date": "2026-09-26T22:36:37Z",
-          "localizedDescription": "Kniv Stanley\n• Nieuw mesje: Scanner. QR-codes, documenten naar PDF, en tekst van papier kopiëren\n• Nieuw mesje: Meten. Waterpas, AR-liniaal en een decibelmeter\n• Het startscherm is nu een 3x2-raster met zes mesjes",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.7.0-b15/Kniv.ipa",
-          "size": 1113784,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.16.25",
-      "versionDate": "2026-09-27T08:29:53Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.16.25-b25/Kniv.ipa",
-      "size": 3254674
+      "version": "0.17.26",
+      "versionDate": "2026-09-27T08:35:25Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.17.26-b26/Kniv.ipa",
+      "size": 3318333
     }
   ],
   "news": []
