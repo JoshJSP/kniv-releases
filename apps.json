@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.13.22",
+          "buildVersion": "22",
+          "date": "2026-09-27T08:12:47Z",
+          "localizedDescription": "Kniv Leatherman\n• Bewaar in Kniv vanuit elke app: tekst, links (met paginatitel) en foto's. Zet hem in je deelmenu via Opdrachten (uitleg in Instellingen)\n• Rustmodus: 's avonds donker en rustig, plekmeldingen zwijgen\n• Deel je weekterugblik als kaartje voor je story",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.13.22-b22/Kniv.ipa",
+          "size": 3182112,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.12.21",
           "buildVersion": "21",
           "date": "2026-09-27T08:08:28Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.7.0-b12/Kniv.ipa",
           "size": 1084010,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.6.0",
-          "buildVersion": "11",
-          "date": "2026-09-26T22:16:33Z",
-          "localizedDescription": "Kniv Tanto\n• Plekmeldingen: bij de supermarkt je boodschappen, op school je schoolnotities, thuis je to-do's\n• Alleen als er sinds de vorige keer iets nieuws is, dus nooit twee keer hetzelfde\n• Bij een notitie: \"Herinner me op deze plek\"\n• Slim zoeken: \"Misschien bedoel je\" vindt ook notities zonder dezelfde woorden\n• Zet Thuis en School in Instellingen → Plekken",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.6.0-b11/Kniv.ipa",
-          "size": 985162,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.12.21",
-      "versionDate": "2026-09-27T08:08:28Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.12.21-b21/Kniv.ipa",
-      "size": 3154478
+      "version": "0.13.22",
+      "versionDate": "2026-09-27T08:12:47Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.13.22-b22/Kniv.ipa",
+      "size": 3182112
     }
   ],
   "news": []
