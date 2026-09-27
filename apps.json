@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.12.21",
+          "buildVersion": "21",
+          "date": "2026-09-27T08:08:28Z",
+          "localizedDescription": "Kniv Hori Hori\n• Timers en countdowns synchroniseren tussen je apparaten (loopt hij op het ene apparaat, dan krijg je ook hier een melding)\n• Potjes synchroniseren, en je kunt een potje delen: vrienden voegen zelf hun uitgaven toe\n• Wijzigingen tijdens het synchroniseren gaan niet meer verloren\n• Uitloggen en opnieuw inloggen werkt nu netjes",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.12.21-b21/Kniv.ipa",
+          "size": 3154478,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.11.20",
           "buildVersion": "20",
           "date": "2026-09-27T07:50:29Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.6.0-b11/Kniv.ipa",
           "size": 985162,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.5.0",
-          "buildVersion": "9",
-          "date": "2026-09-26T22:11:30Z",
-          "localizedDescription": "Kniv Bowie\n• Widgets: snelknoppen op je beginscherm (klein en middel) en vergrendelscherm\n• Control Center-knoppen: Kniv inspreken, foto of typen\n• Live Activity: je timer met mini-lemmet op het vergrendelscherm en in het Dynamic Island",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.5.0-b9/Kniv.ipa",
-          "size": 939389,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.11.20",
-      "versionDate": "2026-09-27T07:50:29Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.11.20-b20/Kniv.ipa",
-      "size": 3096528
+      "version": "0.12.21",
+      "versionDate": "2026-09-27T08:08:28Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.12.21-b21/Kniv.ipa",
+      "size": 3154478
     }
   ],
   "news": []
