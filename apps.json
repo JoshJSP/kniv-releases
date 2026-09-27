@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.11.20",
+          "buildVersion": "20",
+          "date": "2026-09-27T07:50:29Z",
+          "localizedDescription": "Kniv Bolo\n• Samen kiezen: start in Kiezen een code en nodig vrienden uit\n• Het rad draait op ieders telefoon tegelijk, met dezelfde uitkomst\n• Stemmen: iedereen veegt op zijn eigen telefoon, de uitslag komt als iedereen klaar is",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.11.20-b20/Kniv.ipa",
+          "size": 3096528,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.10.19",
           "buildVersion": "19",
           "date": "2026-09-26T23:10:40Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.5.0-b9/Kniv.ipa",
           "size": 939389,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.4.0",
-          "buildVersion": "8",
-          "date": "2026-09-26T22:07:05Z",
-          "localizedDescription": "Kniv Kukri\n• Nieuw mesje: Kiezen\n• Rad van fortuin: veeg om te draaien, hoe harder hoe langer\n• Glazen 3D-dobbelstenen: schud je telefoon om te gooien\n• Munt opgooien, teams willekeurig verdelen\n• Veegstemmen: geef de telefoon door en veeg per optie ja of nee\n• Een lijstje in Vastleggen gaat met één tik naar het rad, teams of een stemming\n• Fooi berekenen met sterren voor eten, drinken en service",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.4.0-b8/Kniv.ipa",
-          "size": 865563,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.10.19",
-      "versionDate": "2026-09-26T23:10:40Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.10.19-b19/Kniv.ipa",
-      "size": 3015502
+      "version": "0.11.20",
+      "versionDate": "2026-09-27T07:50:29Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.11.20-b20/Kniv.ipa",
+      "size": 3096528
     }
   ],
   "news": []
