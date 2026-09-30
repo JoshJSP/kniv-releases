@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.40.62",
+          "buildVersion": "62",
+          "date": "2026-09-30T23:47:38Z",
+          "localizedDescription": "Kniv Kiridashi\n• Nieuw mesje Talen: korte stukjes in elke taal op jouw niveau, over games, reizen, series of je eigen onderwerp\n• Laat het voorlezen en tik op een woord voor de betekenis, uitspraak en (bij Japans) de lezing\n• Na elk stukje zeg je of het te makkelijk of te moeilijk was, en je niveau schuift mee",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.40.62-b62/Kniv.ipa",
+          "size": 4335987,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.39.61",
           "buildVersion": "61",
           "date": "2026-09-27T19:40:26Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.31.48-b48/Kniv.ipa",
           "size": 3729834,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.30.47",
-          "buildVersion": "47",
-          "date": "2026-09-27T10:13:08Z",
-          "localizedDescription": "Kniv Bushcraft\n• Exporteer alles (Instellingen): al je gegevens in één leesbaar bestand\n• Knoppen in meldingen: timer klaar → +5 min, herinnering → over een uur of morgen\n• Prikken (bij Kiezen): wanneer kan iedereen? Kies data, deel de link, zie de beste dag\n• Gehoorportie (bij Meten → Geluid): Kniv waarschuwt voordat harde muziek je oren beschadigt\n• Kniv ziet wat je bedoelt: agenda, bellen, route en links vanuit een notitie\n• Kies de taal van Kniv in Instellingen: Nederlands, English of zoals je iPhone",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.30.47-b47/Kniv.ipa",
-          "size": 3708618,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.39.61",
-      "versionDate": "2026-09-27T19:40:26Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.39.61-b61/Kniv.ipa",
-      "size": 4141643
+      "version": "0.40.62",
+      "versionDate": "2026-09-30T23:47:38Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.40.62-b62/Kniv.ipa",
+      "size": 4335987
     }
   ],
   "news": []
