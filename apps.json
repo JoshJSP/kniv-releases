@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.43.65",
+          "buildVersion": "65",
+          "date": "2026-10-02T22:52:58Z",
+          "localizedDescription": "Kniv Ulu\n• Talen: kanji oefenen met de woorden uit je eigen Japanse stukjes\n• Talen en Gesprekje laten zien hoeveel online vragen je vandaag nog hebt\n• Ik ben er om: bij OV plan je de trein in één tik bij NS\n• Spraak uitschrijven telt alleen nog mee als het gelukt is\n• Windows: je bewaarde woorden uit Talen, met kaartjes om te oefenen",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.43.65-b65/Kniv.ipa",
+          "size": 4686331,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.42.64",
           "buildVersion": "64",
           "date": "2026-10-02T22:21:34Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.33.51-b51/Kniv.ipa",
           "size": 3774902,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.32.50",
-          "buildVersion": "50",
-          "date": "2026-09-27T10:31:01Z",
-          "localizedDescription": "Kniv Benchmade\n• Siri kiest voor je: 'Gooi een dobbelsteen met Kniv', 'Kop of munt met Kniv', 'Kies iets met Kniv'\n• Vastpinnen: houd een notitie ingedrukt en hij staat altijd bovenaan\n• Prullenbak: weggegooide notities blijven 30 dagen, zodat je ze kunt terugzetten (Instellingen)\n• Ingesproken notities bewaren de opname: luister terug als de tekst niet klopt\n• Splitten → Bon: zie per maand wat je aan gescande bonnen uitgaf\n• Exporteer alles (Instellingen): al je gegevens in één leesbaar bestand",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.32.50-b50/Kniv.ipa",
-          "size": 3764689,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.42.64",
-      "versionDate": "2026-10-02T22:21:34Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.42.64-b64/Kniv.ipa",
-      "size": 4634554
+      "version": "0.43.65",
+      "versionDate": "2026-10-02T22:52:58Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.43.65-b65/Kniv.ipa",
+      "size": 4686331
     }
   ],
   "news": []
