@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.44.75",
+          "buildVersion": "75",
+          "date": "2026-10-14T03:14:40Z",
+          "localizedDescription": "Kniv Gyuto\n• Timers snappen nu \"1,5 uur\", herinneringen \"vanavond om 8\" en \"'s ochtends\", en \"over 2 maanden\" is geen datum in maart meer\n• Vastgepinde notities uit een bakje met slotje zie je pas na Face ID\n• Sync: als iets niet doorkwam, probeert Kniv het opnieuw in plaats van het te vergeten\n• Een afgelopen focusronde wordt ook afgerond als je niet in Timers zat\n• Talen: een woord dat je al bewaard had komt er niet nog eens bij\n• Bon scannen: pindakaas en spinazie vallen niet meer weg",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.75-b75/Kniv.ipa",
+          "size": 4712540,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.44.73",
           "buildVersion": "73",
           "date": "2026-10-14T03:06:09Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.43.65-b65/Kniv.ipa",
           "size": 4686331,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.42.64",
-          "buildVersion": "64",
-          "date": "2026-10-02T22:21:34Z",
-          "localizedDescription": "Kniv Puukko\n• Talen: Mijn woorden, met kaartjes om je bewaarde woorden te oefenen\n• Talen: een gesprekje met Kniv in je taal, typen of inspreken, met tips in het Nederlands\n• Talen: hiragana en katakana leren bij Japans\n• Talen: tekst of een webpagina in een andere taal lees je vanuit de notitie als leesstukje\n• Talen gaat nu mee naar je andere iPhone: talen, stukjes, vragen en woorden\n• Boodschappen staan overal op looproute: de supermarktmelding, delen, Siri, Windows en de deelpagina\n• Sorteren blijft niet meer hangen als het taalmodel niet antwoordt",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.42.64-b64/Kniv.ipa",
-          "size": 4634554,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.44.73",
-      "versionDate": "2026-10-14T03:06:09Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.73-b73/Kniv.ipa",
-      "size": 4713016
+      "version": "0.44.75",
+      "versionDate": "2026-10-14T03:14:40Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.75-b75/Kniv.ipa",
+      "size": 4712540
     }
   ],
   "news": []
