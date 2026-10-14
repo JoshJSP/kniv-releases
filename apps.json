@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.44.69",
+          "buildVersion": "69",
+          "date": "2026-10-14T02:14:27Z",
+          "localizedDescription": "Kniv Gyuto\n• Timers snappen nu \"1,5 uur\", herinneringen \"vanavond om 8\" en \"'s ochtends\", en \"over 2 maanden\" is geen datum in maart meer\n• Vastgepinde notities uit een bakje met slotje zie je pas na Face ID\n• Sync: als iets niet doorkwam, probeert Kniv het opnieuw in plaats van het te vergeten\n• Een afgelopen focusronde wordt ook afgerond als je niet in Timers zat\n• Talen: een woord dat je al bewaard had komt er niet nog eens bij\n• Bon scannen: pindakaas en spinazie vallen niet meer weg",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.69-b69/Kniv.ipa",
+          "size": 4703749,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.44.68",
           "buildVersion": "68",
           "date": "2026-10-13T23:43:15Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.38.60-b60/Kniv.ipa",
           "size": 4134942,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.35.55",
-          "buildVersion": "55",
-          "date": "2026-09-27T11:15:19Z",
-          "localizedDescription": "Kniv Leatherman\n• Lamp in de Scanner: zaklamp met dimmer, SOS, morse seinen en je scherm als lamp of bordje\n• Bordje: typ 'Hier!' of een naam en houd je telefoon omhoog, met knipperstand voor drukke zalen\n• Herhalen: 'elke maandag vuilnis buiten' of 'elke 3 dagen planten water' herinnert je steeds opnieuw\n• Rekenen met tijd in Omzetten: '9:15 tot 17:30', '14:35 + 2u50', 'dagen tot 25 dec'\n• Een notitie in de prullenbak haalt haar herinneringen ook weg\n• Sync mist nooit meer een wijziging die precies tegelijk binnenkwam",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.35.55-b55/Kniv.ipa",
-          "size": 3892794,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.44.68",
-      "versionDate": "2026-10-13T23:43:15Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.68-b68/Kniv.ipa",
-      "size": 4703208
+      "version": "0.44.69",
+      "versionDate": "2026-10-14T02:14:27Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.69-b69/Kniv.ipa",
+      "size": 4703749
     }
   ],
   "news": []
