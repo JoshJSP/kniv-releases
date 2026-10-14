@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.44.70",
+          "buildVersion": "70",
+          "date": "2026-10-14T02:23:20Z",
+          "localizedDescription": "Kniv Gyuto\n• Timers snappen nu \"1,5 uur\", herinneringen \"vanavond om 8\" en \"'s ochtends\", en \"over 2 maanden\" is geen datum in maart meer\n• Vastgepinde notities uit een bakje met slotje zie je pas na Face ID\n• Sync: als iets niet doorkwam, probeert Kniv het opnieuw in plaats van het te vergeten\n• Een afgelopen focusronde wordt ook afgerond als je niet in Timers zat\n• Talen: een woord dat je al bewaard had komt er niet nog eens bij\n• Bon scannen: pindakaas en spinazie vallen niet meer weg",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.70-b70/Kniv.ipa",
+          "size": 4707715,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.44.69",
           "buildVersion": "69",
           "date": "2026-10-14T02:14:27Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.39.61-b61/Kniv.ipa",
           "size": 4141643,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.38.60",
-          "buildVersion": "60",
-          "date": "2026-09-27T19:31:31Z",
-          "localizedDescription": "Kniv Victorinox\n• Kenteken in de Scanner: typ of fotografeer een kenteken en zie merk, APK, verzekering, kilometerstand en terugroepacties (RDW)\n• Omzetten weet wat goedkoper is: '2,49 voor 500g of 3,99 voor 1kg'\n• Ik ben er om…: aankomsttijd uitrekenen (ook op de fiets) en meteen doorsturen\n• Achtergrondgeluid om te focussen of te slapen, stopt vanzelf\n• Loep, stopwatch, hoogte, snelheid, scoreblok en tijdzones\n• Lamp met SOS en morse, herhaalde herinneringen, rekenen met tijd",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.38.60-b60/Kniv.ipa",
-          "size": 4134942,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.44.69",
-      "versionDate": "2026-10-14T02:14:27Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.69-b69/Kniv.ipa",
-      "size": 4703749
+      "version": "0.44.70",
+      "versionDate": "2026-10-14T02:23:20Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.70-b70/Kniv.ipa",
+      "size": 4707715
     }
   ],
   "news": []
