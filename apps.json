@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.44.73",
+          "buildVersion": "73",
+          "date": "2026-10-14T03:06:09Z",
+          "localizedDescription": "Kniv Gyuto\n• Timers snappen nu \"1,5 uur\", herinneringen \"vanavond om 8\" en \"'s ochtends\", en \"over 2 maanden\" is geen datum in maart meer\n• Vastgepinde notities uit een bakje met slotje zie je pas na Face ID\n• Sync: als iets niet doorkwam, probeert Kniv het opnieuw in plaats van het te vergeten\n• Een afgelopen focusronde wordt ook afgerond als je niet in Timers zat\n• Talen: een woord dat je al bewaard had komt er niet nog eens bij\n• Bon scannen: pindakaas en spinazie vallen niet meer weg",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.73-b73/Kniv.ipa",
+          "size": 4713016,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.44.72",
           "buildVersion": "72",
           "date": "2026-10-14T02:57:07Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.42.64-b64/Kniv.ipa",
           "size": 4634554,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.41.63",
-          "buildVersion": "63",
-          "date": "2026-10-02T20:55:14Z",
-          "localizedDescription": "Kniv Sgian-dubh\n• Talen: na het lezen vragen over de tekst, zelf een zin schrijven die Kniv nakijkt, en zinnen naspreken\n• Talen: Kniv kiest de mooiste stem op je iPhone en vertelt hoe je gratis een betere downloadt\n• Ik ben er om: bij OV ook de vertrektijd, en de hele route in Kaarten\n• Dobbelstenen liggen nu altijd plat in beeld voor ze tellen\n• Boodschappen: veel meer producten in het goede gangpad, ook verkleinwoorden en meervouden\n• Een APK-herinnering bleef op Even checken draaien; dat is opgelost, en zulke notities kun je nu weggooien",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.41.63-b63/Kniv.ipa",
-          "size": 4418944,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.44.72",
-      "versionDate": "2026-10-14T02:57:07Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.72-b72/Kniv.ipa",
-      "size": 4712434
+      "version": "0.44.73",
+      "versionDate": "2026-10-14T03:06:09Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.73-b73/Kniv.ipa",
+      "size": 4713016
     }
   ],
   "news": []
