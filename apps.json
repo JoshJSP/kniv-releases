@@ -17,6 +17,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.44.72",
+          "buildVersion": "72",
+          "date": "2026-10-14T02:57:07Z",
+          "localizedDescription": "Kniv Gyuto\n• Timers snappen nu \"1,5 uur\", herinneringen \"vanavond om 8\" en \"'s ochtends\", en \"over 2 maanden\" is geen datum in maart meer\n• Vastgepinde notities uit een bakje met slotje zie je pas na Face ID\n• Sync: als iets niet doorkwam, probeert Kniv het opnieuw in plaats van het te vergeten\n• Een afgelopen focusronde wordt ook afgerond als je niet in Timers zat\n• Talen: een woord dat je al bewaard had komt er niet nog eens bij\n• Bon scannen: pindakaas en spinazie vallen niet meer weg",
+          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.72-b72/Kniv.ipa",
+          "size": 4712434,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.44.71",
           "buildVersion": "71",
           "date": "2026-10-14T02:49:32Z",
@@ -96,15 +105,6 @@
           "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.41.63-b63/Kniv.ipa",
           "size": 4418944,
           "minOSVersion": "18.0"
-        },
-        {
-          "version": "0.40.62",
-          "buildVersion": "62",
-          "date": "2026-09-30T23:47:38Z",
-          "localizedDescription": "Kniv Kiridashi\n• Nieuw mesje Talen: korte stukjes in elke taal op jouw niveau, over games, reizen, series of je eigen onderwerp\n• Laat het voorlezen en tik op een woord voor de betekenis, uitspraak en (bij Japans) de lezing\n• Na elk stukje zeg je of het te makkelijk of te moeilijk was, en je niveau schuift mee",
-          "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.40.62-b62/Kniv.ipa",
-          "size": 4335987,
-          "minOSVersion": "18.0"
         }
       ],
       "appPermissions": {
@@ -117,10 +117,10 @@
           "NSCalendarsFullAccessUsageDescription": "Kniv kijkt in je agenda om een herinnering op een vrij moment te zetten."
         }
       },
-      "version": "0.44.71",
-      "versionDate": "2026-10-14T02:49:32Z",
-      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.71-b71/Kniv.ipa",
-      "size": 4709220
+      "version": "0.44.72",
+      "versionDate": "2026-10-14T02:57:07Z",
+      "downloadURL": "https://github.com/JoshJSP/kniv-releases/releases/download/v0.44.72-b72/Kniv.ipa",
+      "size": 4712434
     }
   ],
   "news": []
